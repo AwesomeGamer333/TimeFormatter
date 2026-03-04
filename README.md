@@ -2,7 +2,7 @@
 Tired of having to use colons, new lines, and "AM/PM" when entering times on multiple lines on sheets/excel? With this program you can now save a few seconds.
 
 Sample input/output:
-1040p 11 1130 12 1230 1 200 3 +1
+```1040p 11 1130 12 1230 1 200 3 +1
 10:41 PM
 11:01 PM
 11:31 PM
@@ -20,3 +20,4 @@ Sample input/output:
 12:00 AM
 1:00 AM
 2:00 AM
+```
